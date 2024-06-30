@@ -1,0 +1,9 @@
+# 以下为必填项
+[streamers."程源名字太长|直播录像"] # 设置直播间1
+url = ["https://live.bilibili.com/228173207"]
+tags = ["biliup"]
+
+# 设置直播间2
+[streamers."测试|直播录像"]
+url = ["https://https://live.bilibili.com/27829976"]
+tags = ["biliup"]  
