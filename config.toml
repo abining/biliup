@@ -1,3 +1,11 @@
-[streamers."测试|直播录像"]
+[streamers."zhan |"]
+url = ["https://live.bilibili.com/173469252"]
+
+[streamers."程源这个名字太短了"]
+url = ["https://live.bilibili.com/228173207"]
+
+[streamers."马统君-"]
 url = ["https://live.bilibili.com/27829976"]
-tags = ["biliup"]  
+
+[streamers."高子巷"]
+url = ["https://space.bilibili.com/3493113414814567"]
